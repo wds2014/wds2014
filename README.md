@@ -1,7 +1,5 @@
 <p align="center"><a href="https://wds2014.github.io"><img width="30%" alt="Hello, I'm Wang Dongsheng. I do open source!" src="./assets/mg.png" /></a></p>
 
-<br />
-
 “Talk is cheap. Show me the code.” 
 
 **About me**
