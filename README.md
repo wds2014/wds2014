@@ -1,4 +1,4 @@
-<p align="center"><a href="https://wds2014.github.io"><img width="80%" alt="Hello, I'm Wang Dongsheng. I do open source!" src="./assets/mg.png" /></a></p>
+<p align="center"><a href="https://wds2014.github.io"><img width="50%" alt="Hello, I'm Wang Dongsheng. I do open source!" src="./assets/mg.png" /></a></p>
 
 <br />
 
