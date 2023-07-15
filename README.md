@@ -12,9 +12,9 @@
 
 - 💬 有东升的地方就一定有阳光
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/wds2014?tab=repositories">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=wds2014&show_icons=true&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/wds2014?tab=repositories">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wds2014&layout=compact&theme=buefy&langs_count=8&hide=javascript,html&card_width=280" />
 </a>
